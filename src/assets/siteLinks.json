@@ -7,7 +7,7 @@
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.xinrr.cn/"
+    "link": "https://alist.xinrr.cn/"
   },
   {
     "icon": "CompactDisc",
@@ -16,8 +16,8 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.xinrr.cn/"
+    "name": "ChatGPT",
+    "link": "https://chatgpt.xinrr.cn/"
   },
   {
     "icon": "Book",
